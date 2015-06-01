@@ -1,0 +1,10 @@
+{
+  "name": "COController",
+  "version": "0.0.1",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
